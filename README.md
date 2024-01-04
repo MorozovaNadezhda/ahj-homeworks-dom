@@ -1,7 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/smfn4rg3dt7bfosi/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ahj-homeworks-dom-version2/branch/master)
-
-
----
 
 Правила сдачи задания:
 
